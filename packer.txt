@@ -1,0 +1,14 @@
+packer
+
+terraform with packer 
+Packer is a commandline tool that can build AWS AMIs based on 
+templates.
+
+Instead of installing the software after booting up an 
+instance, you can create an AMI with all the necessary software on.
+
+This can speed up boot times of instances 
+
+its a common approach when you run ahorizontally scaled app layer or a cluster of something.
+
+packer template:
